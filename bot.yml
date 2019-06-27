@@ -137,7 +137,6 @@ dependencies:
     - dill==0.2.9
     - docopt==0.6.2
     - docutils==0.14
-    - en-core-web-md==2.0.0
     - fakeredis==0.10.3
     - fbmessenger==5.6.0
     - flask-cors==3.0.7
